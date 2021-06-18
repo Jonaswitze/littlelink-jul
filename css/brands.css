@@ -75,18 +75,26 @@ button:hover,
 /* Brand Styles
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
-/* Default (this is great for your own brand color!) */
-.button.button-default {
-  color: #FFFFFF;
-  background-color: #0085FF }
-.button.button-default:hover,
-.button.button-default:focus {
-  filter: brightness(90%) }
-
 /* Discord */
 .button.button-discord {
   color: #FFFFFF;
   background-color: #5865F2 }
+.button.button-discord:hover,
+.button.button-discord:focus {
+  filter: brightness(90%) }
+
+/* Tellonym */
+.button.button-tellonym {
+  color: #FFFFFF;
+  background-color: #fc1375 }
+.button.button-discord:hover,
+.button.button-discord:focus {
+  filter: brightness(90%) }
+
+/* TikTok */
+.button.button-tiktok {
+  color: #FFFFFF;
+  background-color: #000000 }
 .button.button-discord:hover,
 .button.button-discord:focus {
   filter: brightness(90%) }
@@ -217,7 +225,7 @@ button:hover,
 /* Spotify */
 .button.button-spotify {
   color: #FFFFFF;
-  background-color: #000000 }
+  background-color: #1ed760 }
 .button.button-spotify:hover,
 .button.button-spotify:focus {
   filter: brightness(90%) }
@@ -236,14 +244,6 @@ button:hover,
   background-color: #3faee8 }
 .button.button-telegram:hover,
 .button.button-telegram:focus {
-  filter: brightness(90%) }
-
-/* TikTok */
-.button.button-tiktok {
-  color: #FFFFFF;
-  background-color: #000000 }
-.button.button-tiktok:hover,
-.button.button-tiktok:focus {
   filter: brightness(90%) }
 
 /* Tumblr */
