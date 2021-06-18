@@ -286,6 +286,14 @@ button:hover,
 .button.button-youtube:focus {
   filter: brightness(90%) }
 
+/* YouTube */
+.button.button-youtube-2 {
+  color: #FFFFFF;
+  background-color:  #000000 }
+.button.button-youtube:hover,
+.button.button-youtube:focus {
+  filter: brightness(90%) }
+
 /* Wordpress */
 .button.button-wordpress {
   color: #FFFFFF;
